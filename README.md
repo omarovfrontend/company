@@ -2,4 +2,4 @@
 
 Верстка макета company
 
-Demo - https://omarov-frontend.github.io/company/
+Demo - https://omarovfrontend.github.io/company/
